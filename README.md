@@ -1,5 +1,5 @@
 ### Hi there! I am Abdullah DÜNDAR👋
-
+### I am Computer science student from University of Yalova. 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahD00&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahD00" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
