@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Abdullah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Software+Developer;Mobile+Application;Flutter;DS%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Division%202%20on%20Codechef%20(3%20Stars);6%20Kyu%20on%20Atcoder;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Software+Developer;Mobile+Application;Flutter;CS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 
@@ -44,7 +44,7 @@
   </a> 
   &emsp;
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
-    <img alt="C#" src="https://img.shields.io/badge/C#%20-%2300599C.svg?style=plastic&logo=C#&logoColor=white">
+    <img alt="C#" src="https://img.shields.io/badge/c++%20-%2300599C.svg?style=plastic&logo=c++&logoColor=white">
   </a> 
   &emsp;
   <a href="https://dart.dev/" target="_blank"> 
