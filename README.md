@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Abdullah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Software+Developer;Mobile+Application+Developer;Flutter;CS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Software+Developer;Mobile+Application+Developer;Flutter;Kotlin;CS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 
@@ -8,7 +8,7 @@
 
 ## :sassy_man:  About me
 - :school: I am a student from University of Yalova
-- :technologist: I love using Flutter
+- :technologist: I am studying on Flutter and Kotlin for Mobile Development 
 - :student: I’m currently learning: `Computer Science` and `Software Engineering`.
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [PROFILE]
 - (https://www.linkedin.com/in/abdullahdundarr/).
@@ -52,6 +52,10 @@
   &emsp;
   <a href="https://dart.dev/" target="_blank"> 
      <img alt="Dart" src="https://img.shields.io/badge/Dart%20-%232370ED.svg?style=plastic&logo=Dart&logoColor=black">
+   </a>
+	  &emsp;
+  <a href="https://kotlinlang.org/docs/home.html" target="_blank"> 
+     <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin%20-%235640ED.svg?style=plastic&logo=Kotlin&logoColor=black">
    </a>
 </p>
 
