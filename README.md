@@ -1,5 +1,4 @@
 <h1 align="center">Hi , I'm Abdullah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<img align="center" src="https://github.com/Melkitaulamunn/Melkitaulamunn/blob/main/Lucdamienga%20Giflucdamienga%20Sticker%20-%20Lucdamienga%20Giflucdamienga%20Hola%20-%20Discover%20%26%20Share%20GIFs.gif" width="250px">
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Software+Developer;Mobile+Application+Developer;Flutter;Kotlin;CS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
